@@ -92,11 +92,12 @@ In your browser, type the following code to access your project dashboard.
 
 *  **Login page**
 
-https://itsourcecode.com/wp-content/uploads/2021/09/image-23.png
+![image](https://github.com/user-attachments/assets/003a02db-2b3e-4771-9ee1-20147461e8b9)
 
 * **Admin Dashboard**
 
-![image](https://github.com/user-attachments/assets/1667ea07-8e8e-400a-9d74-8b3e2e142657)
+![image](https://github.com/user-attachments/assets/3bdb06f2-d10a-4af8-8234-54fece23c6d6)
+
 
 * **User Page**
 
